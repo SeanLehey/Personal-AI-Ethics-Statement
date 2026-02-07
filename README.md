@@ -1,4 +1,4 @@
-# Personal-AI-Ethics-Statement
+# Personal AI Ethics Statement
 
 ### Where I Don't Use AI Tools:
 I don't want to interact with a facsimile of someone's thoughts, and I'm sure many other people feel the same way. To pass off an LLM's writings as my own would be a disservice to myself and the person I'm communicating with. This is not to say that others aren't free to use LLMs as they see fit. As far as my personal preference goes, all of the text in my GitHub projects was thought of and typed by me.
