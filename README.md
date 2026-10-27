@@ -9,7 +9,7 @@ I use LLMs to help me learn how to code. It's my goal to understand what the LLM
 I plan and outline code, interpret what is produced, and adjust that code accordingly, but the initial rough generation is a task I've become comfortable assigning to LLMs to enhance my workflow. It seems that as LLMs become more skilled at coding tasks, our role as humans is shifting more towards that of an orchestrator, though it still behooves us to understand what we're putting out there.
 
 #### Why This Matters
-Everyone uses AI tools differently, and there is no wrong approach. However, I think it's important understand which elements of a project may be attributed entirely to human cognition, and which may be attributed to an LLM, either in whole or in part. That distinction is often the differentiator between autonomous "AI slop" and genuine human effort augmented by AI tools. I believe that distinction important.
+Everyone uses AI tools differently, and there is no wrong approach. However, I think it's important understand which elements of a project may be attributed entirely to human cognition, and which may be attributed to an LLM, either in whole or in part. That distinction is often the differentiator between autonomous "AI slop" and genuine human effort augmented by AI tools. I believe that distinction is important.
 
 I hope you do, too.
 
