@@ -6,7 +6,7 @@ I don't use LLMs to do my writing for me. I understand that LLMs can be a useful
 #### Where I <ins>Do</ins> Use AI Tools:
 I use LLMs to help me with programming tasks across various languages. It's my goal to understand what the LLM is teaching me, and I make sure to avoid blindly copying and pasting LLM-generated code output into my projects. An LLM should teach by example, but we still have an obligation to comprehend what it's doing and why, especially when its output is attributed to our efforts.
 
-I plan and outline code, interpret what is produced, and adjust that code accordingly, but the initial rough generation is a task I've become comfortable assigning to LLMs to enhance my workflow. It seems that as LLMs become more skilled at coding tasks, our role as humans is shifting more towards that of an orchestrator, though it still behooves us to understand what we're putting out there.
+Our role as humans is shifting more towards that of an orchestrator or systems designer, especially as AI becomes exponentially more proficient at coding tasks.
 
 #### Why This Matters
 Everyone uses AI tools differently, and there is no wrong approach. However, I think it's important understand which elements of a project may be attributed entirely to human cognition, and which may be attributed to an LLM, either in whole or in part. That distinction is often the differentiator between autonomous "AI slop" and genuine human effort augmented by AI tools. I believe that distinction is important.
