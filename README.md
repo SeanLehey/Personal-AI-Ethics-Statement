@@ -1,7 +1,7 @@
 # Personal AI Ethics Statement
 
 #### Where I <ins>Don't</ins> Use AI Tools:
-I don't use LLMs to do my writing for me. I understand that LLMs can be a useful writing tool, but I prefer to formulate and communicate my own thoughts. I do sometimes use LLMs to proofread my work and provide editing suggestions, but I try not to make a habit of it. I think it's important to retain my voice and use my brain for some tasks, and writing is certainly one of them.
+I don't use LLMs to do my writing for me. I understand that LLMs can be a useful writing tool, but I prefer to formulate and communicate my own thoughts. I do sometimes use LLMs to proofread my work and provide editing suggestions, but I try not to make a habit of it. I think it's important to retain my voice and eschew AI for some tasks, and writing is certainly one of them.
 
 #### Where I <ins>Do</ins> Use AI Tools:
 I use LLMs to help me learn how to code. It's my goal to understand what the LLM is teaching me, and I make sure to avoid blindly copying and pasting LLM-generated code output into my projects. An LLM should teach by example, but I still have an obligation to comprehend what it's doing and why.
